@@ -7,3 +7,7 @@ feature1 line2
 
 feature1 line1.2
 feature1 line2.2
+
+feature1 line3
+feature1 line4
+
